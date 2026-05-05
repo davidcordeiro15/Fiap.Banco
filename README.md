@@ -128,7 +128,9 @@ Os testes cobrem principalmente:
 ## Integrantes
 
 | RM 556892 | Guilherme Lunghini Teixeiram |
+
 | RM 557538 | David Alexandre Cordeiro |
+
 | RM 99856  | Marchel Augusto Ribeiro |
 
 ---
