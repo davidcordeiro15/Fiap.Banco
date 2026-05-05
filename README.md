@@ -119,9 +119,8 @@ Os testes cobrem principalmente:
 
 ## Diagrama de Arquitetura
 
-<!-- Exporte o diagrama do draw.io como PNG ou SVG, adicione na pasta /assets e substitua a linha abaixo -->
+<img width="551" height="731" alt="Diagrama de Fluxo CP CSharp drawio" src="https://github.com/user-attachments/assets/4e52b223-ecb7-4817-a678-0e069de17d4f" />
 
-![Diagrama de Arquitetura](./assets/diagrama.png)
 
 ---
 
