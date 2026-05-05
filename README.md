@@ -119,7 +119,8 @@ Os testes cobrem principalmente:
 
 ## Diagrama de Arquitetura
 
-<img width="551" height="731" alt="Diagrama de Fluxo CP CSharp drawio" src="https://github.com/user-attachments/assets/4e52b223-ecb7-4817-a678-0e069de17d4f" />
+<img width="1451" height="935" alt="Diagrama de Fluxo drawio" src="https://github.com/user-attachments/assets/a5cbb9a8-d42d-4f53-8d08-c3b22be3fc12" />
+
 
 
 ---
