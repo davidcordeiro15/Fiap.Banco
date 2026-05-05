@@ -18,6 +18,12 @@ builder.Services.AddScoped<IClienteService, ClienteService>();
 builder.Services.AddScoped<IAgenciaService, AgenciaService>();
 builder.Services.AddScoped<IContratacaoService, ContratacaoService>();
 builder.Services.AddHostedService<RabbitMqConsumerHostedService>();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler =
+            System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+    });
 
 var app = builder.Build();
 
