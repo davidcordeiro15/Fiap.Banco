@@ -132,21 +132,3 @@ Os testes cobrem principalmente:
 | RM 99856  | Marchel Augusto Ribeiro |
 
 ---
-
-## Boas Práticas Aplicadas
-
-- Separação em camadas (Controller, Service, DTO)
-- Testes automatizados
-- Organização modular do código
-- Reutilização de componentes
-- Clareza na definição de responsabilidades
-
----
-
-## Possiveis Melhorias
-
-- [ ] Implementação de autenticação e autorização
-- [ ] Integração com banco de dados real
-- [ ] Logs estruturados
-- [ ] Monitoramento e métricas
-- [ ] Containerização com Docker
